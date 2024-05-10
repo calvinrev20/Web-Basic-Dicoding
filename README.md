@@ -1,1 +1,1 @@
-# Web-Basic-Dicoding
+# Submission Web Development Basic (Dicoding)
